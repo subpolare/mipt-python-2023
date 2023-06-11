@@ -17,14 +17,14 @@
 
 | № | Ссылка на конспект | Краткое описание | 
 | ----------- | ----------- | ----------- | 
-| 1 | [Конспект в colab]() | Введение в Python, переменные. | 
-| 2 | [Конспект в colab]() | f-строки, конструкции с if-elif-else, цикл for. | 
+| 1 | [Конспект в colab](https://colab.research.google.com/drive/1FdlxAs7rhblT4iC3SfXa79GVvAifCYUc?usp=sharing) | Введение в Python, переменные. | 
+| 2 | [Конспект в colab](https://colab.research.google.com/drive/13cbhMKNni8VIaBZRWvBL0GDdBW0i5Kge?usp=sharing) | f-строки, конструкции с if-elif-else, цикл for. | 
 |  | [Задание в colab]() | __Домашнее задание № 1.__ | 
-| 3 | [Конспект в colab]() | Продолжение цикла for, цикл while, списки. | 
+| 3 | [Конспект в colab](https://colab.research.google.com/drive/1FIlGzL4QratlkHxlr_Ja_w5YTr-q5Z0X?usp=sharing) | Продолжение цикла for, цикл while, списки. | 
 |  | [Задание в colab]() | __Домашнее задание № 2.__ | 
-| 4 | [Конспект в colab]() | Словари и функции. | 
-| 5 | [Конспект в colab]() | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
-| 6 | [Конспект в colab]() | Модули в Python. Обсуждение и вопросы по анализу собственных геномов. | 
+| 4 | [Конспект в colab](https://colab.research.google.com/drive/1_bwH20Rb02xny8nx9ujeFK8oOsEtxQ2_?usp=sharing) | Словари и функции. | 
+| 5 | [Конспект в colab](https://colab.research.google.com/drive/1qfKWbrYTTuFyo-EXpOdeFvinkROBT_NJ?usp=sharing) | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
+| 6 | [Конспект в colab](https://colab.research.google.com/drive/1zl-oF-tl0HbSgMrhc1CsqQX9Y1wi8NPv?usp=sharing) | Модуль random. Обсуждение и вопросы по анализу собственных геномов. | 
 
 Геномы своих организмов можно найти [по ссылке](https://disk.yandex.ru/d/SQdXhqe6OiFxmg), файлы подписаны вашими именами, выполнять второе домашнее задание задание нужно именно на их основе. Вопросы по заданию, курсу или Python в целом можно и нужно задавать либо по почте (nachatoi@fbb.msu.ru), либо в [telegram](https://t.me/Subpolare). Туда же до 00:00 28 июня нужно отправить результат основного задания, оформленный в свободном стиле. 
 
