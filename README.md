@@ -21,7 +21,7 @@
 | ----------- | ----------- | ----------- | 
 | 1 | [Блокнот в colab](https://colab.research.google.com/drive/1FdlxAs7rhblT4iC3SfXa79GVvAifCYUc?usp=sharing) | Введение в Python, переменные. | 
 | 2 | [Блокнот в colab](https://colab.research.google.com/drive/13cbhMKNni8VIaBZRWvBL0GDdBW0i5Kge?usp=sharing) | f-строки, конструкции с if-elif-else, цикл for. | 
-| — | [Задание в colab]() | __Задание № 1. Анализ участков плазмид.__ | 
+| — | — | __Доделать задания, которые начали на парах__ | 
 | 3 | [Блокнот в colab](https://colab.research.google.com/drive/1FIlGzL4QratlkHxlr_Ja_w5YTr-q5Z0X?usp=sharing) | Продолжение цикла for, цикл while, списки. | 
 | 4 | [Блокнот в colab](https://colab.research.google.com/drive/1_bwH20Rb02xny8nx9ujeFK8oOsEtxQ2_?usp=sharing) | Словари и функции. | 
 | 5 | [Блокнот в colab](https://colab.research.google.com/drive/1qfKWbrYTTuFyo-EXpOdeFvinkROBT_NJ?usp=sharing) | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
