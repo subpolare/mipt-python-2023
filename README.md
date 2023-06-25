@@ -23,12 +23,12 @@
 
 | № | Дата | Ссылки | Краткое описание | 
 | ----------- | ----------- | ----------- | ----------- | 
-| 1 | 1 пара 26.06 | — | Введение в Python, переменные. | 
-| 2 | 2 пара 26.06 | — | f-строки, конструкции с if-elif-else, цикл for. | 
+| 1 | 1 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/1FdlxAs7rhblT4iC3SfXa79GVvAifCYUc?usp=sharing) | Введение в Python, переменные. | 
+| 2 | 2 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/13cbhMKNni8VIaBZRWvBL0GDdBW0i5Kge?usp=sharing) | f-строки, конструкции с if-elif-else, цикл for. | 
 | 3 | 3 пара 26.06 | — | Продолжение цикла for, цикл while, списки. | 
 | 4 | 1 пара 26.06 | — | Словари и функции. | 
 | 5 | 2 пара 27.06 | — | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
-| — | __Зачет__ | — | __Анализ геномных последовательностей.__ | 
+| — | __Зачет__ | [Блокнот](https://colab.research.google.com/drive/1RymPcrQdAbYpuNaQV3sCBOdyAVjMSPKf?usp=sharing) | __Анализ геномных последовательностей.__ | 
 | 6 | 3 пара 27.06 | — | Модуль random на примере анализа генома _Arabidopsis thaliana_ и табака. | 
 | — | — | — | Модули matpoltlib и seaborn для построения графиков, задания по геному архей. | 
 
