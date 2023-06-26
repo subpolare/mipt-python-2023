@@ -27,7 +27,7 @@
 | 2 | 2 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/13cbhMKNni8VIaBZRWvBL0GDdBW0i5Kge?usp=sharing) | f-строки, конструкции с if-elif-else, цикл for. | 
 | 3 | 3 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/1FIlGzL4QratlkHxlr_Ja_w5YTr-q5Z0X?usp=sharing) | Продолжение цикла for, цикл while, списки. | 
 | 4 | 1 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/1_bwH20Rb02xny8nx9ujeFK8oOsEtxQ2_?usp=sharing) | Словари и функции. | 
-| 5 | 2 пара 27.06 | — | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
+| 5 | 2 пара 27.06 | [Блокнот](https://colab.research.google.com/drive/1qfKWbrYTTuFyo-EXpOdeFvinkROBT_NJ?usp=sharing) | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
 | — | __Зачет__ | [Блокнот](https://colab.research.google.com/drive/1RymPcrQdAbYpuNaQV3sCBOdyAVjMSPKf?usp=sharing) | __Анализ геномных последовательностей.__ | 
 | 6 | 3 пара 27.06 | — | Модуль random на примере анализа генома _Arabidopsis thaliana_ и табака. | 
 | — | — | — | Модули matpoltlib и seaborn для построения графиков, задания по геному архей. | 
