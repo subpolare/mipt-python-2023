@@ -29,8 +29,8 @@
 | 4 | 1 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/1_bwH20Rb02xny8nx9ujeFK8oOsEtxQ2_?usp=sharing) | Словари и функции. | 
 | 5 | 2 пара 27.06 | [Блокнот](https://colab.research.google.com/drive/1qfKWbrYTTuFyo-EXpOdeFvinkROBT_NJ?usp=sharing) | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
 | — | __Зачет__ | [Блокнот](https://colab.research.google.com/drive/1RymPcrQdAbYpuNaQV3sCBOdyAVjMSPKf?usp=sharing) | __Анализ геномных последовательностей.__ | 
-| 6 | 3 пара 27.06 | — | Модуль random на примере анализа генома _Arabidopsis thaliana_ и табака. | 
-| — | — | — | Модули matpoltlib и seaborn для построения графиков, задания по геному архей. | 
+| 6 | 3 пара 27.06 | [Блокнот](https://colab.research.google.com/drive/1zl-oF-tl0HbSgMrhc1CsqQX9Y1wi8NPv?usp=sharing) | Модуль random на примере анализа генома _Arabidopsis thaliana_ и табака. | 
+| — | — | [Блокнот](https://colab.research.google.com/drive/1WG0Nr6ceH4lCYtHxwHH6AjPuW_HPZf43?usp=sharing) | Модули matpoltlib и seaborn для построения графиков, задания по геному архей. | 
 
 Геномы своих организмов можно найти [по ссылке](https://disk.yandex.ru/d/SQdXhqe6OiFxmg), файлы подписаны вашими именами, выполнять второе задание задание нужно именно на их основе. Вопросы по заданию, курсу или Python в целом можно и нужно задавать либо по почте (nachatoi@fbb.msu.ru), либо в [telegram](https://t.me/Subpolare). Туда же до 17:00 27 июня нужно отправить результат зачетного задания. 
 
