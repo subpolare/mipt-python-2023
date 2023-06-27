@@ -30,6 +30,8 @@
 
 Геномы своих организмов можно найти [по ссылке](https://disk.yandex.ru/d/SQdXhqe6OiFxmg), файлы подписаны вашими именами, выполнять второе задание задание нужно именно на их основе. Вопросы по заданию, курсу или Python в целом можно и нужно задавать либо по почте (nachatoi@fbb.msu.ru), либо в [telegram](https://t.me/Subpolare). Туда же до 17:00 27 июня нужно отправить результат зачетного задания. 
 
+## Дополнительные материалы по Python 
+
 **Дополнительную литературу** по блоку можно найти по ссылке [в соответствующей статье](https://vk.com/@nachatoi-literatura-po-python). 
 
 **Анекдот про биоинформатика** можно найти [по ссылке](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl) :)
