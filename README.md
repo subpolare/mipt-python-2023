@@ -34,4 +34,8 @@
 
 **Анекдот про биоинформатика** можно найти [по ссылке](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl) :)
 
+## Ресурсы, которыми пользовались на последней паре
+
+Базы данных [PDB](https://www.rcsb.org) и [UniProt](https://www.uniprot.org) для хранения белковых структур и общей информации. Для анализа структур использовалась программа [PyMOL](https://pymol.org/2/), для предсказываний — нейросеть от DeepMind [AlphaFold 2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb). 
+
 
