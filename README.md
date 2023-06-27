@@ -40,4 +40,10 @@
 
 Базы данных [PDB](https://www.rcsb.org) и [UniProt](https://www.uniprot.org) для хранения белковых структур и общей информации. Для анализа структур использовалась программа [PyMOL](https://pymol.org/2/), для предсказываний — нейросеть от DeepMind [AlphaFold 2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb). 
 
+## Зачеты по Python
+
+1. Середа Варя
+2. Соловьева Алиса
+3. Уфимцев Максим
+
 
