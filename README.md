@@ -24,9 +24,14 @@
 | 3 | 3 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/1FIlGzL4QratlkHxlr_Ja_w5YTr-q5Z0X?usp=sharing) | Продолжение цикла for, цикл while, списки. | 
 | 4 | 1 пара 26.06 | [Блокнот](https://colab.research.google.com/drive/1_bwH20Rb02xny8nx9ujeFK8oOsEtxQ2_?usp=sharing) | Словари и функции. | 
 | 5 | 2 пара 27.06 | [Блокнот](https://colab.research.google.com/drive/1qfKWbrYTTuFyo-EXpOdeFvinkROBT_NJ?usp=sharing) | Работа с файлами на примере анализа генома бактерии _Escherichia coli._ | 
-| — | __Зачет__ | [Блокнот](https://colab.research.google.com/drive/1RymPcrQdAbYpuNaQV3sCBOdyAVjMSPKf?usp=sharing) | __Анализ геномных последовательностей.__ | 
-| 6 | 3 пара 27.06 | [Блокнот](https://colab.research.google.com/drive/1zl-oF-tl0HbSgMrhc1CsqQX9Y1wi8NPv?usp=sharing) | Модуль random на примере анализа генома _Arabidopsis thaliana_. | 
-| — | — | [Блокнот](https://colab.research.google.com/drive/1WG0Nr6ceH4lCYtHxwHH6AjPuW_HPZf43?usp=sharing) | Модули matpoltlib и seaborn для построения графиков, задания по геному архей. | 
+|  | __Зачет__ | [Блокнот](https://colab.research.google.com/drive/1RymPcrQdAbYpuNaQV3sCBOdyAVjMSPKf?usp=sharing) | __Анализ геномных последовательностей.__ | 
+|  |  | [Блокнот](https://colab.research.google.com/drive/1zl-oF-tl0HbSgMrhc1CsqQX9Y1wi8NPv?usp=sharing) | Модуль random на примере анализа генома _Arabidopsis thaliana_. | 
+|  |  | [Блокнот](https://colab.research.google.com/drive/1WG0Nr6ceH4lCYtHxwHH6AjPuW_HPZf43?usp=sharing) | Модули matpoltlib и seaborn для построения графиков, задания по геному архей. | 
+
+Для работы на последней паре Python использовались: 
+* Базы данных [PDB](https://www.rcsb.org) и [UniProt](https://www.uniprot.org) для хранения белковых структур и общей информации.
+* Для анализа структур использовалась программа [PyMOL](https://pymol.org/2/).
+* Для предсказываний — нейросеть от DeepMind [AlphaFold 2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb). 
 
 Геномы своих организмов можно найти [по ссылке](https://disk.yandex.ru/d/SQdXhqe6OiFxmg), файлы подписаны вашими именами, выполнять второе задание задание нужно именно на их основе. Вопросы по заданию, курсу или Python в целом можно и нужно задавать либо по почте (nachatoi@fbb.msu.ru), либо в [telegram](https://t.me/Subpolare). Туда же до 17:00 27 июня нужно отправить результат зачетного задания. 
 
